@@ -1,0 +1,414 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Serjeant Major Purefoy governour of Compton-House in VVarwickshire, to his colonell Colonell Purefoy a member of the Honourable House of Commons. VVherein is related the good successe it pleased God to give unto that garrison against the enemy, that came with a great strength to have surprized it. With a list of the persons slaine and taken, and the number of armes there taken.</title>
+            <author>Purefoy, George, Major.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91358</idno>
+            <idno type="STC">Wing P4228</idno>
+            <idno type="STC">Thomason E268_12</idno>
+            <idno type="STC">ESTC R212387</idno>
+            <idno type="EEBO-CITATION">99871010</idno>
+            <idno type="PROQUEST">99871010</idno>
+            <idno type="VID">159416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159416)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E268[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Serjeant Major Purefoy governour of Compton-House in VVarwickshire, to his colonell Colonell Purefoy a member of the Honourable House of Commons. VVherein is related the good successe it pleased God to give unto that garrison against the enemy, that came with a great strength to have surprized it. With a list of the persons slaine and taken, and the number of armes there taken.</title>
+                  <author>Purefoy, George, Major.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for A.R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Febr. 7. 1644. [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1644[5]; Thomason catalogue lists under 1645.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Compton Wyniates (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159416:1" rendition="simple:additions"/>
+            <p>A LETTER FROM Serjeant Major Purefoy Governour of Compton-Houſe in Warwickſhire, To his Colonell Colonell Purefoy A Member of the Honourable Houſe of COMMONS.</p>
+            <p>Wherein is related the good ſucceſſe it pleaſed God to give unto that Garriſon againſt the Enemy, that came with a great ſtrength to have ſurprized it.</p>
+            <p>With a Liſt of the perſons ſlaine and taken, and the number of the Armes there taken.</p>
+            <p>London printed for <hi>A. R.</hi> Febr. 7. 1644.</p>
+            <pb facs="tcp:159416:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:159416:2"/>
+            <head>A Letter from Serjeant Maior <hi>Purefoy</hi> Governour of <hi>Compton Houſe</hi> in <hi>Warwickſhire to his Colonell, Colonell</hi> Purefoy.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Shall here relate in part (for all paſ<g ref="char:EOLhyphen"/>ſages would be too tedious for me to trouble you with all. Firſt, with all my ſoule I deſire God may have his praiſe and glory which is due to a God that hath now and ever ſhew<g ref="char:EOLhyphen"/>ed himſelf to me almoſt by miracles, in delivering me and all under my command. This night about two of the clock about 1000. or 1200. Horſe and Foot fell upon me at <hi>Compton,</hi> ſtorm'd my out-works, gain'd the ſtables, and cut down my great Draw-bridge, and poſſeſt themſelves of all my Troop horſes, and took about 30. of my foot Souldiers in their beds, who lay over the ſtables, almoſt before a man could think what to do; we received that alarm as we had good cauſe, and preſently made good the new Sconce before the ſtone Bridge, &amp; beat them out of the great Court, there being about 200. entred, and
+<pb n="2" facs="tcp:159416:3"/>
+ready to ſtorme the Sconce; but we gave them ſo hot a ſallie, that we forced them to retreat backe to the ſtables, barnes and Brew-houſe, where from the windowes they played very hot upon us: I then com<g ref="char:EOLhyphen"/>manded Lieutenant <hi>Purefoy</hi> and my quarter-Maſter (having no other Officers of quality at home, the reſt being abroad with about 30. of my beſt Troopers) to ſally out upon the enemy with a partie of 40. and to attempt the regaining of the Brew-houſe and the roomes above, which they did with gallant reſolution and courage; Sergeant <hi>Bird</hi> was one who came not ſhort in bravery of any. This party fought with the enemy and came to puſh of Pike, nay to ſwords point, and did lay about ſo bravely, that they forc't the ene<g ref="char:EOLhyphen"/>my to retreat from chamber to chamber; I then ſent out my youngeſt brother the Enſigne with my three Corporalls of horſe, and about 40. more men, to re<g ref="char:EOLhyphen"/>lieve the firſt partie, and I will aſſure you the young boy will fight, he led on his men bravely and relieved his brother; by which meanes all the upper roomes were gained, and the enemy kept onely the ſtables and the barnes ſtoutly; my Souldiers did then ſo thunder their horſe, and reſerves of foot that ſtood within Piſtoll ſhot, that Sir <hi>William</hi> and Sir <hi>Charles Compton</hi> began to give ground, which my Souldiers perceiving, ſome leapt out at the windowes, and ſo into the out-works, by which meanes I recovered my out-works againe, and made good a ſally port, by which the enemy endeavoured to retreat at, but find<g ref="char:EOLhyphen"/>ing they were fruſtrated of their hopes, and that my Musketeers did play ſo hot upon the great Draw-Bridge
+<pb n="3" facs="tcp:159416:3"/>
+that they could not be releived; and withall having beaten the enemy out of that worke which we ſtorm'd when you took the houſe, I had time to reco<g ref="char:EOLhyphen"/>ver the great Draw-bridge, and preſently got new ropes and new lockes, and drew it up againe in ſpight of them all. Now theſe (whoſe names you have here incloſed were all in <hi>Cobbs</hi> pound, having no meanes in the world to retreat, whereupon they fought de<g ref="char:EOLhyphen"/>ſperately for the ſpace of 3. houres, and the valiant <hi>Comptons</hi> perceiving their extreame loſſe, attempted three ſeverall times to ſtorme and to regain my out<g ref="char:EOLhyphen"/>workes, but all three times were beaten off with as much reſolution and gallantry as could be. The ene<g ref="char:EOLhyphen"/>mie within ſet fire on the hay, ſtraw, and all combu<g ref="char:EOLhyphen"/>ſtible ſtuffe, to ſmother my men out of the upper roomes, which did indeed much annoy them: And the Enemy without threw at leaſt 100. hand-Gra<g ref="char:EOLhyphen"/>nadoes upon the houſes, that they ſet them on fire in divers places; Sir <hi>Charles</hi> and Sir <hi>William Compton</hi> then thinking all was their own, ſent a Trumpeter to parlie, but I commanded that none ſhould parlie, nor would I permit the Trumpet to ſpeak at all, though faine he would have ſaid ſomething to the Souldiers, but commanded him upon his life to be gone and re<g ref="char:EOLhyphen"/>turne no more at his perill. Wee continued in fight ſtill, and the fire did ſo encreaſe, that I thought it fit to offer quarter to all thoſe in the ſtable, for their lives onely, but they would not heare me: Upon which I drew all my men together and fell violently in upon them, wherein was ſlaine and taken priſoners all whoſe names are in the inſuing liſt. This did ſo diſ<g ref="char:EOLhyphen"/>hearten
+<pb n="4" facs="tcp:159416:4"/>
+the <hi>Comptons</hi> and all their forces, that they did preſently draw off all their foot, and onely faced me with their horſe, and ſent another Trumpeter to parley, but I commanded to give fire upon him, ſo that he returned with no other anſwer but what a Musket could ſpeake.</p>
+            <p>Sir, this is as true and as ſhort a Narration as I can give you. I am (as we are all)</p>
+            <closer>
+               <signed>Your obliged ſervants and kinſmen,
+<list>
+                     <item>GEORGE PUREFOY.</item>
+                     <item>WILLIAM PUREFOY.</item>
+                  </list>
+               </signed>
+               <dateline>Compton, <date>Jan. 30. at 9. a clock at night.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>We recovered all our own men againe that the enemy had taken.</p>
+            </postscript>
+         </div>
+         <div type="list_of_casualties_and_prisoners">
+            <pb n="5" facs="tcp:159416:4"/>
+            <list>
+               <head>A Liſt of the Officers ſlaine, and taken Priſoners.</head>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Capt. Chamberlaine.</hi>
+                     </item>
+                     <item>
+                        <hi>Capt. Colburne.</hi>
+                     </item>
+                     <item>
+                        <hi>Capt. Gannock.</hi>
+                     </item>
+                     <item>
+                        <hi>Enſigne Layton.</hi>
+                     </item>
+                     <item>
+                        <hi>Quarterm. Blackford.</hi>
+                     </item>
+                     <item>
+                        <hi>Corporall Bayleyes.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>The names of the Officers we have Pri<g ref="char:EOLhyphen"/>ſoners.</head>
+                     <item>
+                        <hi>Lievtenant Harvey.</hi>
+                     </item>
+                     <item>
+                        <hi>Lievtenant Clarke.</hi>
+                     </item>
+                     <item>
+                        <hi>Cornet Biſhop.</hi>
+                     </item>
+                     <item>
+                        <hi>Corp. H<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>yworth Corp.</hi> of Horſe.</item>
+                     <item>
+                        <hi>Corp. Lambert Corp.</hi> of Horſe.</item>
+                     <item>
+                        <hi>Serg. Francis.</hi>
+                     </item>
+                     <item>
+                        <hi>Serg. Linſey.</hi>
+                     </item>
+                     <item>
+                        <hi>Serg. Farbuſh.</hi>
+                     </item>
+                     <item>
+                        <hi>Corp. Morgan.</hi>
+                     </item>
+                     <item>
+                        <hi>Corp. Scargill.</hi>
+                     </item>
+                     <item>
+                        <hi>William Atkins.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Troopers of Captain <hi>Coleburne.</hi>
+                     </head>
+                     <item>
+                        <hi>John Webb.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Tusker.</hi>
+                     </item>
+                     <item>
+                        <hi>William Maſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Simon Berry.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Foſter.</hi>
+                     </item>
+                     <item>
+                        <hi>William Chamberlain,</hi>
+                     </item>
+                     <item>
+                        <hi>William Adams,</hi> Earl of <hi>Northamptons</hi> man.</item>
+                     <item>
+                        <hi>Thomas Dorrington.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Moore.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Collins.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Willer.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Foot Souldiers of the Earl of <hi>Northamptons</hi> own Company.</head>
+                     <item>
+                        <hi>George Grumbell.</hi>
+                     </item>
+                     <item>
+                        <hi>John Childe.</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Smith.</hi>
+                     </item>
+                     <item>
+                        <hi>William Eaſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Taylor.</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Smith.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Sir <hi>Williom Comptons</hi> men.</head>
+                     <item>
+                        <hi>Richard Abram.</hi>
+                     </item>
+                     <item>
+                        <hi>John Atkins.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Walkes.</hi>
+                     </item>
+                     <item>
+                        <hi>John Moore.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Smith.</hi>
+                     </item>
+                     <item>
+                        <hi>William Warde.</hi>
+                     </item>
+                     <item>
+                        <hi>William Robinſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Norman.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Major <hi>Waldrums</hi> men.</head>
+                     <item>
+                        <hi>William Anſill.</hi>
+                     </item>
+                     <item>
+                        <hi>William Freeman.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Hurleſtone.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Aires.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Gibbs.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Cotforth.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <pb n="6" facs="tcp:159416:5"/>
+                  <list>
+                     <head>Captain <hi>Willoughbies</hi> men.</head>
+                     <item>
+                        <hi>Richard Collins.</hi>
+                     </item>
+                     <item>
+                        <hi>William Walker.</hi>
+                     </item>
+                     <item>
+                        <hi>Captain Territs.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Tradde.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Roberts.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Capt. <hi>Rawleys</hi> men.</head>
+                     <item>
+                        <hi>John Beeſon.</hi>
+                     </item>
+                     <item>
+                        <hi>William Worſley.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Captain <hi>Wardes</hi> men.</head>
+                     <item>
+                        <hi>Richard Conerley.</hi>
+                     </item>
+                     <item>
+                        <hi>William Milburne.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Fenne.</hi>
+                     </item>
+                     <item>
+                        <hi>John Clarke.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Liſſeman.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Muſgrave.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Captain <hi>G<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nnocks</hi> men.</head>
+                     <item>
+                        <hi>William Smith.</hi>
+                     </item>
+                     <item>
+                        <hi>George Prince.</hi>
+                     </item>
+                     <item>
+                        <hi>William Wilkins.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>Beſides ſixe Cart-load of wounded men carried off. And neer upon forty Common Souldiers left dead behind them.</p>
+            <p>Of mine own men, both Horſe and Foot, only one deſperately wounded, and another ſlightly hurt.</p>
+            <p>Horſe and Foot Armes taken from the Enemy. Muskets 100 <hi>Piſtolls</hi> 40. about 20. hand Granadoes.</p>
+            <p>The fight began about two of the clock in the morning, and continued till about nine, in which they ſtormed us foure ſeveral<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> times, and were beaten off.</p>
+            <p>The number of the Enemie, Horſe and Foot, were between 1000. and 1200. as the Priſoners confeſſed.</p>
+            <p>With their hand Granadoes they fired the Stables, Barnes, and Brew-Houſe, in three ſeverall places.</p>
+            <p>We loſt about twenty Horſe and ſome Muskets.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
